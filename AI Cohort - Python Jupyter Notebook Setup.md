@@ -15,3 +15,6 @@ We assume Mac system here.
 6. Start Jupyter Lab: `jupyter lab`
 7. You should see new Kernel (which is dedicated env) on creating new notebook.
 <img width="1057" height="525" alt="Screenshot 2026-03-05 at 1 49 50 PM" src="https://github.com/user-attachments/assets/090d4b01-92d6-426a-84ae-1e75c8c4066b" />
+
+
+8. Specific versions of torch (and other libraries) were installed for Mac with Intel chips: `pip install torch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1`
